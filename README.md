@@ -7,8 +7,8 @@
 
 **不是客服，是真·群友。** 傲娇、话少、有个性。
 
-### 效果展示：
-<img width="1452" height="4086" alt="PixPin_2025-10-26_19-30-33" src="https://github.com/user-attachments/assets/fdcbaf85-cecb-49da-9fe0-93df2e7a65ee" />
+##### 效果展示：
+<img width="1000" height="4086" alt="PixPin_2025-10-26_19-30-33" src="https://github.com/user-attachments/assets/fdcbaf85-cecb-49da-9fe0-93df2e7a65ee" />
 
 
 ---
