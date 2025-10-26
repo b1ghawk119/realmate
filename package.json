@@ -1,0 +1,21 @@
+{
+  "name": "qq-ai-bot",
+  "version": "2.0.0",
+  "description": "生产级QQ群聊AI机器人，对接NapCatQQ",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node --watch bot.js",
+    "test": "node --test"
+  },
+  "keywords": ["qq", "bot", "ai", "napcat", "deepseek"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "axios": "^1.7.2",
+    "ws": "^8.18.0",
+    "openai": "^4.28.0"
+  }
+}
